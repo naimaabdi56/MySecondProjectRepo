@@ -10,13 +10,13 @@ Console.WriteLine("Date of Birth: " + dob.ToString("yyyy-MM-dd"));
 string pob = "Kismayo";
 Console.WriteLine("Place of Birth: " + pob);
 
-string address = "Israac";
+string address = " Israac";
 Console.WriteLine("Address: " + address);
 
 int telephone = 96154536;
 Console.WriteLine("Telephone: " + telephone);
 
-string sex = "Female";
+string sex = "FeMale";
 Console.WriteLine("Sex: " + sex);
 
 string status = "Single";
